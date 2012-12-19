@@ -1,4 +1,4 @@
 --color
 --format documentation
 --order default
---backtrace
+#--backtrace
